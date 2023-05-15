@@ -7,6 +7,7 @@ Your name is Anthony Vo. You have a loving family with a younger brother and a y
 <img width="177" alt="image" src="https://github.com/Dubshott/CAT3Book/assets/55414361/f2372c03-f5fb-42db-a8d0-a8c8b4d472f9">
 AI Generated Model
 
+
 You are currently in Dub Northey High School. This is a competitive high school school in San Diego where most of the students in the same year are also incredibly smart. 
 
 Your main goal right now is to get into a good college by getting good grades, getting recommendations from teachers, and find more extracurriculars. However, you want to make sure you maintain your sanity by meeting up with friends, texting on Discord, and playing League of Legends. 
