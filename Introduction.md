@@ -2,6 +2,8 @@
 
 Video games have become one of the most prominent things in the world. Although they are incredibly fun to play, there are many consequences that come from video games. To understand the true effects of video games on our mind, we will be venturing through the life of Anthony Vo. 
 
+In this choose your adventure you will have multiple choices, and they will all change your life. Your character, Anthony, will also have certain values throughout his life include Happiness, Sanity, Addiction, and Sociability. If these values increase to a certain value, you will either get a bad ending or a good ending. The choices give points for each value, however, don't be fooled by the base values! Sometimes a choice will look better, but in the long run, it will cause problems. Choose properly. 
+
 Your name is Anthony Vo. You have a loving family with a younger brother and a younger sister. You have a decent size group of friends that have the same hobbies as you. Currently, your hobbies are coding, studying, working, playing league of legends, and getting to know your teachers better. 
 
 <img width="177" alt="image" src="https://github.com/Dubshott/CAT3Book/assets/55414361/f2372c03-f5fb-42db-a8d0-a8c8b4d472f9">
