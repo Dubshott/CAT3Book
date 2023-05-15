@@ -4,7 +4,7 @@ You decided to not apply to Code Gladiators. Great! This means you have much mor
 
 If you decide to become more studious, you will lose happiness and sanity, but you will become smarter and get more prepared for college! Afterall, a good college is what matters most, right? 
 
-'''
+'''java
 Happiness -2
 Sanity -5
 Smartness +5
