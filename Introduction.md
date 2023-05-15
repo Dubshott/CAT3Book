@@ -23,3 +23,7 @@ Will you apply to Code Gladiators?
 [I apply to Code Gladiators.](/Page1-ApplyJob.md)
 
 [I don't apply to Code Gladiators.](/Page2-NoApplyJob.md) 
+
+Citations: 
+
+https://www.theverge.com/2020/2/28/21157828/new-apple-anime-ad-macbooks-laptops-airpods-earpods
