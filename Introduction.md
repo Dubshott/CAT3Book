@@ -16,4 +16,4 @@ Will you apply to Code Gladiators?
 
 [I apply to Code Gladiators.](/Page 1 - Apply to CodeNinjas)
 
-I don't apply to Code Gladiators. 
+[I don't apply to Code Gladiators.](Page 2 - Don't Apply to CodeNinjas) 
