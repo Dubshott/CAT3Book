@@ -14,6 +14,8 @@ You are in the 11th grade, the most hectic time of your life. You are looking fo
 
 Your teacher, Mr. Maximus, just sent a new message in Slack, your class's messaging platform. You decided to click the message and see what it was about. You read that there was a "internship" opportunity in a new company called Code Gladiators in which you would teach students how to code, but you would get no volunteer hours and no money. You would start getting an hourly wage a few months into the program. 
 
+![image](https://github.com/Dubshott/CAT3Book/assets/55414361/a115b7f0-adac-4fff-8c7f-8b5fbee8ce73)
+
 Will you apply to Code Gladiators?
 
 [I apply to Code Gladiators.](/Page1-ApplyJob.md)
