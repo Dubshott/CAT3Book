@@ -15,9 +15,12 @@ If you decide to play more video games, you will become much happier! You will b
 `Addiction +2`
 `Sociability +2`
 
+![image](https://github.com/Dubshott/CAT3Book/assets/55414361/339e6ee1-8584-4ddb-9f1b-f3303b522189)
+
 [I decided to become even more studious](/Page3-Study.md)
 
 [I decided to start playing more video games](/Page4-VideoGames.md)
 
 
-
+Citations:
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2F2018%2F4%2F24%2F17272850%2Fwotakoi-anime-nerdy-romance&psig=AOvVaw0XSQCwnKgWxN1HXMsM0hsk&ust=1684282002398000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDjvcXF-P4CFQAAAAAdAAAAABAE
