@@ -4,19 +4,19 @@ You decided to not apply to Code Gladiators. Great! This means you have much mor
 
 If you decide to become more studious, you will lose happiness and sanity, but you will become smarter and get more prepared for college! Afterall, a good college is what matters most, right? 
 
-'''java
+```
 Happiness -2
 Sanity -5
 Smartness +5
-'''
+```
 
 If you decide to play more video games, you will become much happier! You will become slightly more addicted as video games are where all your friends connect. 
 
-'''
+```
 Happiness +3 
 Addiction +2
 Sociability +2
-'''
+```
 
 [I decided to become even more studious](/Page3-Study.md)
 
