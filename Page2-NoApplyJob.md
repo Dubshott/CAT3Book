@@ -10,6 +10,12 @@ Sanity -5
 Smartness +5
 ```
 
+|Effects|
+---------
+| Happiness -2 |
+| Sanity -5 |
+| Smartness +5 |
+
 If you decide to play more video games, you will become much happier! You will become slightly more addicted as video games are where all your friends connect. 
 
 ```
