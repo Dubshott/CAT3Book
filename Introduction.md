@@ -20,9 +20,9 @@ Your teacher, Mr. Maximus, just sent a new message in Slack, your class's messag
 
 Will you apply to Code Gladiators?
 
-[I apply to Code Gladiators.](/Page1-ApplyJob.md)
+[I apply to Code Gladiators.](/1.md)
 
-[I don't apply to Code Gladiators.](/Page2-NoApplyJob.md) 
+[I don't apply to Code Gladiators.](/2.md) 
 
 Citations: 
 
