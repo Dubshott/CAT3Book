@@ -15,12 +15,14 @@ As you reach the end of your high school career, your friends also start to real
 However, you can look deeper into your friends' mockery and try to stop playing video games. 
 
 If you decide to stop playing video games, you will go into a very bad mental state as video games has become a part of your daily routine. It will take a long time to get adjusted back to your normal life without video games. 
+
 `Sanity -10` 
 `Happiness -5`
 `Sociability -4` 
 `Addiction -7`
 
 However, you can also continue to play video games. This will continue making you happier and you will also have the chance to become even more sociable through your connections in the gaming community. However, watch out for your addiction level because it become too dangerous if it gets too high. 
+
 `Happiness +2`
 `Sociability +2`
 `Addiction +2`
