@@ -1,0 +1,45 @@
+It's been four months since you've applied to work at Code Gladiators and you've been cruising through the classes you teach as a Code Sensei. The class has been easier to teach since the COVID-19 pandemic has allowed you to teach online classes. Instead of commuting to the class for forty minutes round trip each day, you can teach from the comfort of your bedroom.
+
+Your alarm goes off and you look at your phone screen. 
+
+[insert picture of phone alarmcale screen illustration that says code gladiators class]
+
+"*shit, I gotta log onto my class*", you think.
+
+You log onto the zoom meeting and after a few minutes, Jimmy joins the meeting.
+
+"Hi Jimmy! How's it going today?" you ask in a semi-enthusiastic voice.
+
+"I don't know."
+
+"Oh. Well today we are going to learn about for loops and while loops. Let me send you the curriculum exercises for you to work on." You send Jimmy a link in the chat to the Code Gladiators exercise portal where students can work through code snippets and multiple choice questions that help teach programming concepts. "You can work on this and let me know if you have any questions."
+
+"Okay."
+
+You mute your microphone and open up League of Legends. *I'm getting paid to tell kids to do a worksheet. This is easy.*
+
+<hr>
+
+<sub>anthony</sub>
+
+Anthony!
+
+**ANTHONY!**
+
+Slowly, the sound of your name being called fades in and over the loud sound of your League of Legends gameplay.
+
+*SHIT!!*
+
+You realize your boss has joined your zoom meeting to check in with all the students!
+
+*What do I do? What do I do!?* 
+
+You panic. Fear rushes through your head. You try to think of an excuse.
+
+You still haven't responded to your boss yet but you suddenly recieve an notification that pops up on the bottom right of your screen. It's an email from your boss trying to get your attention.
+
+```
+What do you do?
+- Be honest and tell your boss that you were distracted with something.
+- Lie and pretend you had internet issues.
+```
