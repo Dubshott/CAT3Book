@@ -2,7 +2,7 @@ It's been four months since you've applied to work at Code Gladiators and you've
 
 Your alarm goes off and you look at your phone screen. 
 
-[insert picture of phone alarmcale screen illustration that says code gladiators class]
+------------------------------[insert picture of phone alarmcale screen illustration that says code gladiators class]
 
 "*shit, I gotta log onto my class*", you think.
 
