@@ -28,11 +28,13 @@ You answer, "Hi Mr. Maximus. What can I do for you?"
 
 ![image](https://github.com/Dubshott/CAT3Book/assets/55414361/a115b7f0-adac-4fff-8c7f-8b5fbee8ce73)
 
-```
+
 Will you apply to Code Gladiators?
+
 [I apply to Code Gladiators.](/1.md)
+
 [I don't apply to Code Gladiators.](/2.md) 
-```
+
 Citations: 
 
 https://www.theverge.com/2020/2/28/21157828/new-apple-anime-ad-macbooks-laptops-airpods-earpods
