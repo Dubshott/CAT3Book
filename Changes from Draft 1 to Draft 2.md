@@ -9,6 +9,8 @@ Red Lines: Means lines have been deleted
 ## 1A: Change options
 <img width="557" alt="image" src="https://github.com/Dubshott/CAT3Book/assets/55414361/58dff98b-63e5-437f-98f2-e4e88438c02e">
 
+## 1A1: added
+
 ## 1B: In Draft 1, there was no content in this file. Now in Draft 2, we have written out the whole option
 <img width="1030" alt="image" src="https://github.com/Dubshott/CAT3Book/assets/55414361/196042c6-bdb6-4b89-a7b2-e2280500480d">
 
