@@ -1,5 +1,8 @@
-<span style="background-color: #00FF00">Green Lines</span>: Means new lines have been added
+Green Lines: Means new lines have been added
+<mark style="background-color: #FFFF00">Highlighted text</mark> 
 Red Lines: Means lines have been deleted
+
+# Changes
 
 1 : No changes
 
