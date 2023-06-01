@@ -19,19 +19,11 @@ _Yes I am._
 These italicized words mean that Anthony is thinking something. It's supposed to be an internal monologue. Sometimes, it looks like theres a whole conversation. That is because Anthony has to constantly converse with himself to try and make the right decision. (Also for comedic effect)
 
  
-
+This is a picture of you: (now it will be easier to imagine)
 
 <img width="177" alt="image" src="https://github.com/Dubshott/CAT3Book/assets/55414361/f2372c03-f5fb-42db-a8d0-a8c8b4d472f9">
 
 <hr>
-
-You are currently in Dub Northay High School. This is a competitive high school school in San Diego where most of the students in the same year are also incredibly smart. 
-
-Your main goal right now is to get into a good college by getting good grades, getting recommendations from teachers, and find more extracurriculars. However, you want to make sure you maintain your sanity by meeting up with friends, texting on Discord, and playing League of Legends. 
-
-You are in the 11th grade, the most hectic time of your life. You are looking for opportunities to develop your resume, so that colleges will like you more.
-
-Now live your life to the fullest. 
 
 <hr>
 
