@@ -18,6 +18,7 @@ _Yes I am._
 
 These italicized words mean that Anthony is thinking something. It's supposed to be an internal monologue. Sometimes, it looks like theres a whole conversation. That is because Anthony has to constantly converse with himself to try and make the right decision. (Also for comedic effect)
 
+This book uses multiple types of pictures. The first type is pictures of Anthony and the other type is Anime pictures. We wanted to include both of these so that it would be more engaging and comedic and see the true emotions of a certain situation. 
  
 This is a picture of you: (now it will be easier to imagine)
 
