@@ -28,6 +28,12 @@ Bastin, Amy. “Friendships Formed and Strengthened in Online Gaming Environment
 
 Loscalzo, Yura. “Studyholism and Study Engagement: What about the Role of Perfectionism, Worry, Overstudy Climate, and Type of School in Adolescence?” International Journal of Environmental Research and Public Health, 21 Jan. 2021, www.ncbi.nlm.nih.gov/pmc/articles/PMC7908290/. 
 
+## 2A1
+
+Yen, Ju-Yu, et al. “The Withdrawal-Related Affective, Gaming Urge, and Anhedonia Symptoms of Internet Gaming Disorder during Abstinence.” Journal of Behavioral Addictions, 25 Mar. 2022, www.ncbi.nlm.nih.gov/pmc/articles/PMC9295250/. 
+
+Zaman, Musharaf, et al. “Prevalence of Gaming Addiction and Its Impact on Sleep Quality: A Cross-Sectional Study from Pakistan.” Annals of Medicine and Surgery (2012), 20 Apr. 2022, www.ncbi.nlm.nih.gov/pmc/articles/PMC9206897/. 
+
 ## 2A2
 
 Loscalzo, Yura. “Studyholism and Study Engagement: What about the Role of Perfectionism, Worry, Overstudy Climate, and Type of School in Adolescence?” International Journal of Environmental Research and Public Health, 21 Jan. 2021, www.ncbi.nlm.nih.gov/pmc/articles/PMC7908290/. 
@@ -35,7 +41,6 @@ Loscalzo, Yura. “Studyholism and Study Engagement: What about the Role of Perf
 ## 2B1
 
 Yen, Ju-Yu, et al. “The Withdrawal-Related Affective, Gaming Urge, and Anhedonia Symptoms of Internet Gaming Disorder during Abstinence.” Journal of Behavioral Addictions, 25 Mar. 2022, www.ncbi.nlm.nih.gov/pmc/articles/PMC9295250/. 
-
 
 ## 2B2
 
